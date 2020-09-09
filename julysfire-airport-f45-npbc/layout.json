@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.dbf",
+      "size": 1414,
+      "date": 132439774080989258
+    },
+    {
+      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.shp",
+      "size": 1036,
+      "date": 132439774080989258
+    },
+    {
+      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.shx",
+      "size": 108,
+      "date": 132439774080989258
+    },
+    {
+      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.xml",
+      "size": 4141,
+      "date": 132439774080999264
+    },
+    {
+      "path": "ContentInfo/julysfire-airport-f45-npbc/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 309,
+      "date": 132441459061785647
+    },
+    {
+      "path": "MaterialLibs/mymaterials/f45polys.dbf",
+      "size": 1414,
+      "date": 132441025405766635
+    },
+    {
+      "path": "MaterialLibs/mymaterials/f45polys.shp",
+      "size": 292,
+      "date": 132441025405766635
+    },
+    {
+      "path": "MaterialLibs/mymaterials/f45polys.shx",
+      "size": 108,
+      "date": 132441025405766635
+    },
+    {
+      "path": "MaterialLibs/mymaterials/f45polys.xml",
+      "size": 4141,
+      "date": 132441025405766635
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Library.xml",
+      "size": 905,
+      "date": 132441458223944524
+    },
+    {
+      "path": "MaterialLibs/mymaterials/PAVEMENT.PNG.DDS",
+      "size": 50388,
+      "date": 132441459061515398
+    },
+    {
+      "path": "MaterialLibs/mymaterials/pavement.PNG.DDS.FLAGS",
+      "size": 39,
+      "date": 132441340365443503
+    },
+    {
+      "path": "MaterialLibs/mymaterials/PAVEMENT.PNG.DDS.json",
+      "size": 232,
+      "date": 132441459061455337
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/WP.PNG.DDS",
+      "size": 73856,
+      "date": 132439895422091914
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/wp.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132439802890357863
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/WP.PNG.DDS.json",
+      "size": 127,
+      "date": 132439895422051884
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 56,
+      "date": 132441002502238083
+    },
+    {
+      "path": "scenery/world/scenery/MAINPOLY.BGL",
+      "size": 941,
+      "date": 132441459193789276
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 51900,
+      "date": 132441459193699196
+    }
+  ]
+}

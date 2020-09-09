@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "F45 - North Palm Beach County",
+  "manufacturer": "",
+  "creator": "Julysfire",
+  "package_version": "0.0.1",
+  "minimum_game_version": "1.7.14",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
