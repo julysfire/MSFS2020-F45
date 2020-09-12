@@ -26,19 +26,54 @@
       "date": 132399197780000000
     },
     {
+      "path": "manifest.json",
+      "size": 309,
+      "date": 132443364138044353
+    },
+    {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 56,
-      "date": 132441882486602950
+      "size": 2523988,
+      "date": 132443364137744081
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/DARKERSHEET.PNG.DDS",
+      "size": 19378464,
+      "date": 132442491745965346
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/DARKERSHEET.PNG.DDS.json",
+      "size": 119,
+      "date": 132442491745765163
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEST1.JPG.DDS",
+      "size": 9689296,
+      "date": 132442491730087372
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEST1.JPG.DDS.json",
+      "size": 102,
+      "date": 132442491729947244
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS",
+      "size": 89478640,
+      "date": 132443330961199548
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS.json",
+      "size": 119,
+      "date": 132443330960228647
     },
     {
       "path": "scenery/world/scenery/MAINPOLY.BGL",
-      "size": 2136,
-      "date": 132441882487583835
+      "size": 6542,
+      "date": 132444019039436930
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 61508,
-      "date": 132441882487453723
+      "size": 110367,
+      "date": 132444019038867677
     }
   ]
 }
