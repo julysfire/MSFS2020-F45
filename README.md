@@ -44,6 +44,24 @@ For the Steam edition:
 
 ## Screenshots
 
+![Cover](screenshots/c1.PNG)
+
+![Screen1](screenshots/d1.PNG)
+
+![Screen2](screenshots/d1.PNG)
+
+![Screen3](screenshots/d7.PNG)
+
+![Screen4](screenshots/d8.PNG)
+
+![Screen5](screenshots/d10.PNG)
+
+![Screen6](screenshots/d2.PNG)
+
+![Screen7](screenshots/d4.PNG)
+
+![Screen8](screenshots/d5.PNG)
+
 
 ##### TODO
 
