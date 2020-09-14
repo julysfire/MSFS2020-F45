@@ -69,7 +69,7 @@ For the Steam edition:
 
 - Improve on custom 3D models.  This was the first time learning/using Blender.  Definately improvement to be made here.
 - There is an issue where adding any water will auto terraform that will create a new Great Lake...figure out why it keeps doing this and add more water to the area.
-- Find an accurate diagram for including more taxiway signs.
+- Find an accurate diagram for including more taxiway signs.  EDIT: Found.  Will update soon.
 - Fix any bugs/issues that may arise.
 
 
