@@ -48,7 +48,7 @@ For the Steam edition:
 
 ![Screen1](screenshots/d1.PNG)
 
-![Screen2](screenshots/d1.PNG)
+![Screen2](screenshots/d5.PNG)
 
 ![Screen3](screenshots/d7.PNG)
 
@@ -60,7 +60,9 @@ For the Steam edition:
 
 ![Screen7](screenshots/d4.PNG)
 
-![Screen8](screenshots/d5.PNG)
+![Screen8](screenshots/d6.PNG)
+
+![Screen9](screenshots/d9.PNG)
 
 
 ##### TODO
