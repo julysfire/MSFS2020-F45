@@ -9,7 +9,7 @@ Cords: 26°50'47.3"N 80°13'15.8"W
 
 ##### Summary
 
-North Palm Beach County General Aviation Aiport is 12 nm NW of West Palm Beach, Florida off the Bee Line Highway.  The airport is owned by Palm Beach County.  North Palm Beach County airport is approx 10 miles from the coast and just under 20 miles from Palm Beach International Airport.
+North Palm Beach County General Aviation Airport is 12 nm NW of West Palm Beach, Florida off the Bee Line Highway.  The airport is owned by Palm Beach County.  North Palm Beach County airport is approx 10 miles from the coast and just under 20 miles from Palm Beach International Airport.
 
 AirNav: <https://www.airnav.com/airport/f45>
 
