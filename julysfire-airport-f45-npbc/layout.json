@@ -1,26 +1,6 @@
 {
   "content": [
     {
-      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.dbf",
-      "size": 1414,
-      "date": 132439774080989258
-    },
-    {
-      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.shp",
-      "size": 1036,
-      "date": 132439774080989258
-    },
-    {
-      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.shx",
-      "size": 108,
-      "date": 132439774080989258
-    },
-    {
-      "path": "ContentInfo/julysfire-airport-f45-npbc/f45polys.xml",
-      "size": 4141,
-      "date": 132439774080999264
-    },
-    {
       "path": "ContentInfo/julysfire-airport-f45-npbc/Thumbnail.jpg",
       "size": 13520,
       "date": 132399197780000000
@@ -28,62 +8,42 @@
     {
       "path": "manifest.json",
       "size": 309,
-      "date": 132444412795933075
+      "date": 132445306898563381
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 4818388,
-      "date": 132444408098477734
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/DARKERSHEET.PNG.DDS",
-      "size": 19378464,
-      "date": 132442491745965346
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/DARKERSHEET.PNG.DDS.json",
-      "size": 119,
-      "date": 132442491745765163
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/TEST1.JPG.DDS",
-      "size": 9689296,
-      "date": 132442491730087372
-    },
-    {
-      "path": "scenery/global/scenery/TEXTURE/TEST1.JPG.DDS.json",
-      "size": 102,
-      "date": 132442491729947244
+      "size": 5340012,
+      "date": 132445336733521112
     },
     {
       "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS",
       "size": 89478640,
-      "date": 132443330961199548
+      "date": 132445233671520685
     },
     {
       "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS.json",
       "size": 119,
-      "date": 132443330960228647
+      "date": 132445233670569823
     },
     {
       "path": "scenery/global/scenery/TEXTURE/TEX2.PNG.DDS",
       "size": 89478640,
-      "date": 132444408097656994
+      "date": 132445336732450141
     },
     {
       "path": "scenery/global/scenery/TEXTURE/TEX2.PNG.DDS.json",
       "size": 119,
-      "date": 132444408096576014
+      "date": 132445336731239011
     },
     {
-      "path": "scenery/world/scenery/MAINPOLY.BGL",
-      "size": 9132,
-      "date": 132444555716927123
+      "path": "scenery/world/scenery/CVX0045.BGL",
+      "size": 17909,
+      "date": 132445233743277703
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 163279,
-      "date": 132444555716226485
+      "size": 347864,
+      "date": 132445336736113467
     }
   ]
 }
