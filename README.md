@@ -17,6 +17,27 @@ Wikipedia: <https://en.wikipedia.org/wiki/North_Palm_Beach_County_General_Aviati
 
 Google Maps <https://goo.gl/maps/ZxDzRmf1XTkqWks19>
 
+
+### Release Notes
+
+Release: V1.1.0
+
+- Taxiways and runways should now line up and are named.
+- Added taxiway signs.
+- Added light row support.
+- Smoothed out some taxiways.
+- [ILS Runway 9R](https://aeronav.faa.gov/d-tpp/2011/09151IL9R.PDF) now should be working.
+- Fixed a backwards painted line that led to taxiway M.
+- Fixed and improved on some painted lines not lining up.
+- Fixed the radio tower in the lake.
+- Fixed a missed taxiway turn that should have been curved.
+- Fixed some taxiways having extra lights.
+- Fixed some parking spots' headings.
+- Fixed some other apron issues.
+
+Next up is the custom hangar models.  I have learned a lot about Blender and modeling since creating these.
+
+
 ##### Features
 
 - **Entire airport that is not currently in the base game**
