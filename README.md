@@ -67,6 +67,8 @@ For the Steam edition:
 
 ![Cover](screenshots/c1.PNG)
 
+![Screen0](screenshots/c2.PNG)
+
 ![Screen1](screenshots/d1.PNG)
 
 ![Screen2](screenshots/d5.PNG)
