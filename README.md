@@ -26,7 +26,8 @@ Release: V1.1.0
 - Added taxiway signs.
 - Added light row support.
 - Smoothed out some taxiways.
-- [ILS Runway 9R](https://aeronav.faa.gov/d-tpp/2011/09151IL9R.PDF) now should be working.
+- [ILS Runway 9R](https://aeronav.faa.gov/d-tpp/2011/09151IL9R.PDF) now should be working.  I should note, the approach plate is a bit glitchy at the moment due to the SDK's handling.  The actual ILS is there however on 110.75 and you can tune to the frequency for glideslope and path.
+- Added REILs to runways that needed them.
 - Fixed a backwards painted line that led to taxiway M.
 - Fixed and improved on some painted lines not lining up.
 - Fixed the radio tower in the lake.
@@ -35,7 +36,7 @@ Release: V1.1.0
 - Fixed some parking spots' headings.
 - Fixed some other apron issues.
 
-Next up is the custom hangar models.  I have learned a lot about Blender and modeling since creating these.
+Next up is the custom hangar models.  I have learned a lot about Blender and modeling since creating these.  I have decided not to add the RNAV approaches at this time as the approaches are a bit glitchy and not well supported right now.  Once things are in a better spot for including them, I will add the remaining approaches.
 
 
 ##### Features
