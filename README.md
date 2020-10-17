@@ -98,4 +98,4 @@ For the Steam edition:
 
 
 If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
-http://paypal.me/julysfire
+http://paypal.me/julysfire or <https://www.buymeacoffee.com/julysfire>
