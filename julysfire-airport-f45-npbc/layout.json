@@ -7,43 +7,43 @@
     },
     {
       "path": "manifest.json",
-      "size": 308,
-      "date": 132472091138781411
+      "size": 309,
+      "date": 132487214760342625
     },
     {
-      "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 5340012,
-      "date": 132472455474077221
+      "path": "scenery/global/sceneryF45/modelLibF45.BGL",
+      "size": 5339256,
+      "date": 132487215710287736
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS",
+      "path": "scenery/global/sceneryF45/TEXTURE/TEX1.PNG.DDS",
       "size": 89478640,
-      "date": 132472091063413043
+      "date": 132487215635652744
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/TEX1.PNG.DDS.json",
+      "path": "scenery/global/sceneryF45/TEXTURE/TEX1.PNG.DDS.json",
       "size": 119,
-      "date": 132472091062432115
+      "date": 132487215634613641
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/TEX2.PNG.DDS",
+      "path": "scenery/global/sceneryF45/TEXTURE/TEX2.PNG.DDS",
       "size": 89478640,
-      "date": 132472091133100281
+      "date": 132487215705838621
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/TEX2.PNG.DDS.json",
+      "path": "scenery/global/sceneryF45/TEXTURE/TEX2.PNG.DDS.json",
       "size": 119,
-      "date": 132472091132199454
+      "date": 132487215704805565
     },
     {
-      "path": "scenery/world/scenery/CVX0045.BGL",
+      "path": "scenery/world/sceneryF45/CVX0045.BGL",
       "size": 17909,
-      "date": 132472091138411125
+      "date": 132487215714351610
     },
     {
-      "path": "scenery/world/scenery/objects.bgl",
+      "path": "scenery/world/sceneryF45/objects.bgl",
       "size": 210046,
-      "date": 132472455476289237
+      "date": 132487215712840227
     }
   ]
 }
