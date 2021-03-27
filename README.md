@@ -20,7 +20,7 @@ Google Maps <https://goo.gl/maps/ZxDzRmf1XTkqWks19>
 
 ### Release Notes
 
-Release: V1.1.1
+Release: V1.3
 
 - Fixed windsock direction
 - Fixed the rotation and placement of some of the taxiway signs
