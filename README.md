@@ -20,23 +20,14 @@ Google Maps <https://goo.gl/maps/ZxDzRmf1XTkqWks19>
 
 ### Release Notes
 
-Release: V1.1.0
+Release: V1.1.1
 
-- Taxiways and runways should now line up and are named.
-- Added taxiway signs.
-- Added light row support.
-- Smoothed out some taxiways.
-- [ILS Runway 9R](https://aeronav.faa.gov/d-tpp/2011/09151IL9R.PDF) now should be working.  I should note, the approach plate is a bit glitchy at the moment due to the SDK's handling.  The actual ILS is there however on 110.75 and you can tune to the frequency for glideslope and path.
-- Added REILs to runways that needed them.
-- Fixed a backwards painted line that led to taxiway M.
-- Fixed and improved on some painted lines not lining up.
-- Fixed the radio tower in the lake.
-- Fixed a missed taxiway turn that should have been curved.
-- Fixed some taxiways having extra lights.
-- Fixed some parking spots' headings.
-- Fixed some other apron issues.
-
-Next up is the custom hangar models.  I have learned a lot about Blender and modeling since creating these.  I have decided not to add the RNAV approaches at this time as the approaches are a bit glitchy and not well supported right now.  Once things are in a better spot for including them, I will add the remaining approaches.
+- Fixed windsock direction
+- Fixed the rotation and placement of some of the taxiway signs
+- Removed center lights from runways (these should not have been there)
+- Removed lights from center of taxiways (these should not have been there)
+- Added more missing vegetation
+- Additional tree/bush/light scenery
 
 
 ##### Features
