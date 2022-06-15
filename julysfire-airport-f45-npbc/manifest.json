@@ -4,11 +4,11 @@
   "title": "F45 - North Palm Beach County",
   "manufacturer": "",
   "creator": "Julysfire",
-  "package_version": "1.3.1",
-  "minimum_game_version": "1.18.15",
+  "package_version": "1.4.0",
+  "minimum_game_version": "1.26.5",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
+      "LastUpdate": "VERSION 1.4.0 RELEASED JANUARY 1, 0\\n- Updated to World Update X\n- Fixed some textures not aligning correctly\n- Fixed some paths not aligning\n- Fixed broken taxi paths\n- Connected parking spots to taxi paths for use of the guidelines and ATC",
       "OlderHistory": ""
     }
   }

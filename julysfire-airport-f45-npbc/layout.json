@@ -7,38 +7,33 @@
     },
     {
       "path": "scenery/global/sceneryF45/modelLibF45.BGL",
-      "size": 5340300,
-      "date": 132750917111152964
+      "size": 5340472,
+      "date": 132997985636006101
     },
     {
       "path": "scenery/global/sceneryF45/texture/TEX1.PNG.DDS",
       "size": 89478640,
-      "date": 132750917035339953
+      "date": 132997985570610744
     },
     {
       "path": "scenery/global/sceneryF45/texture/TEX1.PNG.DDS.json",
       "size": 119,
-      "date": 132750917034329037
+      "date": 132997985569762870
     },
     {
       "path": "scenery/global/sceneryF45/texture/TEX2.PNG.DDS",
       "size": 89478640,
-      "date": 132750917107930037
+      "date": 132997985635755886
     },
     {
       "path": "scenery/global/sceneryF45/texture/TEX2.PNG.DDS.json",
       "size": 119,
-      "date": 132750917106979170
-    },
-    {
-      "path": "scenery/world/sceneryF45/CVX0045.bgl",
-      "size": 17910,
-      "date": 132750917113585171
+      "date": 132997985634956787
     },
     {
       "path": "scenery/world/sceneryF45/objects.bgl",
-      "size": 208738,
-      "date": 132750917113274896
+      "size": 232378,
+      "date": 132997985638588451
     }
   ]
 }

@@ -20,14 +20,13 @@ Google Maps <https://goo.gl/maps/ZxDzRmf1XTkqWks19>
 
 ### Release Notes
 
-Release: V1.3
+Release: V1.4.0
 
-- Fixed windsock direction
-- Fixed the rotation and placement of some of the taxiway signs
-- Removed center lights from runways (these should not have been there)
-- Removed lights from center of taxiways (these should not have been there)
-- Added more missing vegetation
-- Additional tree/bush/light scenery
+- Updated for World Update X compatibility
+- Fixed broken taxi ways
+- Connected parking spots to runways for compatibility with guidelines and ATC
+- Corrected some textures that were not lining update
+- Corrected taxi lines that were not lining up
 
 
 ##### Features
