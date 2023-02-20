@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-f45-npbc",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "F45",
+      "revision": 1
+    }
+  ]
+}
